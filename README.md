@@ -71,7 +71,7 @@
         // ADMOB CONFIGURATION
         // ==========================================
         const ADMOB_CONFIG = {
-            AD_UNIT_ID: "ca-app-pub-3893159799848007/3044232823", // PASTE UNIT ID HERE
+            AD_UNIT_ID: "ca-app-pub-3893159799848007/7334521534", // PASTE UNIT ID HERE
         };
 
         const canvas = document.getElementById('gameCanvas');
